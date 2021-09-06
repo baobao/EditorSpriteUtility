@@ -1,4 +1,13 @@
-﻿using System.Collections.Generic;
+/**
+EditorSpriteUtility
+
+Copyright (c) 2021 ohbashunsuke
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
+
+using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEditor.U2D;
