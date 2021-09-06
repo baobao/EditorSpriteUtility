@@ -1,0 +1,11 @@
+{
+    "name": "info.shibuya24.EditorSpriteUtility",
+    "displayName": "EditorSpriteUtility",
+    "version": "0.0.1",
+    "unity": "2019.4",
+    "description": "Sprite utility for editor.",
+    "keywords": ["Unity", "C#", "Sprite", "Editor"],
+    "license": "MIT",
+    "category": "Unity",
+    "dependencies": {}
+}
