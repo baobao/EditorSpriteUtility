@@ -1,6 +1,17 @@
 # EditorSpriteUtility
 Sprite utility for editor.
 
+
+## GetSpriteList
+
+Get a list of Sprites from SpriteAtlas.
+
+```cs
+SpriteAtlas atlas;
+List<Sprite> list = EditorSpriteUtility.GetSpriteList(atlas);
+```
+
+
 ## Install via git URL
 
 Add `https://github.com/baobao/EditorSpriteUtility.git?path=Assets/EditorSpriteUtility` to Package Manager
