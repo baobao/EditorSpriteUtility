@@ -26,4 +26,4 @@ or add `"info.shibuya24.editorspriteutility": "https://github.com/baobao/EditorS
 
 ## License
 
-See [LICENSE.md](https://github.com/baobao/UnityOSCWrapper/blob/master/Assets/UnityOSCWrapper/LICENSE.md) (MIT).
+See [LICENSE.md](https://github.com/baobao/EditorSpriteUtility/blob/main/LICENSE) (MIT).
